@@ -4,7 +4,7 @@ PyBank and PyPoll Homework
 
 ## PyBank
 
-![Revenue](C:/Users/zarap/OneDrive/UofT BootCamp/Class Project/python-challenge/Image/BANK.png)
+![Revenue](Image/BANK.jpg)
 
 * Our task is to create a Python script that analyzes the records to calculate each of the following:
 
@@ -20,7 +20,7 @@ PyBank and PyPoll Homework
 
 * As an example, our analysis should look similar to the one below:
 
-  ```text
+  
   Financial Analysis
  ----------------------------
  Total Months: 86
@@ -28,14 +28,13 @@ PyBank and PyPoll Homework
  Average Change: -8311.11
  Greatest Increase in Profits: Aug-16 ($1862002)
  Greatest Decrease in Profits: Feb-14 ($-1825558)
-  ```
+  
   
 * In addition, our final script should both print the analysis to the terminal and export a text file with the results.
 
-
 ## PyPoll
 
-![Voting](C:/Users/zarap/OneDrive/UofT BootCamp/Class Project/python-challenge/Image/POLL.png)
+![Voting](Image/POLL.png)
 
 * In this challenge, we are tasked with helping a small, rural town modernize its vote-counting process. 
 
@@ -53,7 +52,6 @@ PyBank and PyPoll Homework
 
 * As an example, Our analysis should look similar to the one below:
 
-  ```text
   Election Results
  ----------------------------
  Total Votes: 369712
@@ -64,7 +62,6 @@ PyBank and PyPoll Homework
  ----------------------------
  Winner: Diana DeGette
  ----------------------------
-  ```
   
   * In addition, our final script should both print the analysis to the terminal and export a text file with the results.
 
