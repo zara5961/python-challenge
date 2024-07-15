@@ -20,14 +20,13 @@ PyBank and PyPoll Homework
 
 * As an example, our analysis should look similar to the one below:
 
-  
-  Financial Analysis
- ----------------------------
- Total Months: 86
- Total: $22564198
- Average Change: -8311.11
- Greatest Increase in Profits: Aug-16 ($1862002)
- Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+* Financial Analysis
+* Total Months: 86
+* Total: $22564198
+* Average Change: -8311.11
+* Greatest Increase in Profits: Aug-16 ($1862002)
+* Greatest Decrease in Profits: Feb-14 ($-1825558)
   
   
 * In addition, our final script should both print the analysis to the terminal and export a text file with the results.
@@ -52,19 +51,17 @@ PyBank and PyPoll Homework
 
 * As an example, Our analysis should look similar to the one below:
 
-  Election Results
- ----------------------------
- Total Votes: 369712
- ----------------------------
- Charles Casper Stockham: 23.048% (85213)
- Diana DeGette: 73.812% (272892)
- Raymon Anthony Doane: 3.139% (11606)
- ----------------------------
- Winner: Diana DeGette
- ----------------------------
-  
-  * In addition, our final script should both print the analysis to the terminal and export a text file with the results.
+* Election Results
+* Total Votes: 369712
+* Charles Casper Stockham: 23.048% (85213)
+* Diana DeGette: 73.812% (272892)
+* Raymon Anthony Doane: 3.139% (11606)
+* Winner: Diana DeGette
 
-I did explaine my steps in my comments and anywhere I used google to find a better function or way, I mentioned it.
+  
+* In addition, our final script should both print the analysis to the terminal and export a text file with the results.
+
+# Please Note:
+* I did explaine my steps in my comments and anywhere I used google to find a better function or way, I mentioned it.
 
 
