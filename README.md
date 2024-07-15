@@ -1,10 +1,10 @@
 # python-challenge
-PyBank &amp; PyPoll Homework
+PyBank and PyPoll Homework
 
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+![Revenue](C:/Users/zarap/OneDrive/UofT BootCamp/Class Project/python-challenge/Image/BANK.png)
 
 * Our task is to create a Python script that analyzes the records to calculate each of the following:
 
@@ -35,11 +35,11 @@ PyBank &amp; PyPoll Homework
 
 ## PyPoll
 
-![Vote-Counting](Images/Vote_counting.png)
+![Voting](C:/Users/zarap/OneDrive/UofT BootCamp/Class Project/python-challenge/Image/POLL.png)
 
 * In this challenge, we are tasked with helping a small, rural town modernize its vote-counting process. 
 
-* We will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Our task is to create a Python script that analyzes the votes and calculates each of the following:
+* We will be give a set of poll data called election_data. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Our task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
